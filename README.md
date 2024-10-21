@@ -5,7 +5,6 @@
 ## Course Synopsis
 This course offers students a new perspective on the study of Artificial Intelligence (AI) concepts. The essential topics and theory of AI are presented, but it also includes practical information on data input and reduction as well as data output (i.e. algorithm usage). In particular, this course emphasizes on theoretical and practical aspects of various search algorithms, knowledge representations, and machine learning methods. The course features practical implementations through assignments undertaken both individually and in groups.
 
-🔥[Download Course Information here.](./materials/CISECJ3553.pdf) 
 
 ## Course Learning Outcomes
 1. Apply the fundamentals and concepts of AI using various types of AI solutions including search algorithms, knowledge representation, and machine learning methods.
